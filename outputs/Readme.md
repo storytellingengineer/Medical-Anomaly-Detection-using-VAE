@@ -1,4 +1,4 @@
-# 📁 outputs/
+# 📁 outputs
 
 Stores output images:
 - Reconstructed images from VAE
